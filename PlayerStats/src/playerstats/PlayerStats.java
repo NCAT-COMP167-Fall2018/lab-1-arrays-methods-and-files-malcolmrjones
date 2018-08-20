@@ -65,4 +65,13 @@ public class PlayerStats {
         return sum / scores.length;
     }
     
+    //Sort the two parallel arrays with selection sort.
+    public static void sortArrays(String[] names, int[] scores) {
+        
+    }
+    
+    public static void displayTopXPlayers(String[] names, int[] scores, int topX) {
+        
+    }
+    
 }
